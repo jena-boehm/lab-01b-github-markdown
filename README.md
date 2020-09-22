@@ -10,3 +10,22 @@
 1) Then create a file with 'touch index.html'
 1) Then, cd into 'assets'
 1) Create two files: 'touch style.css' and 'touch app.js'
+
+
+# heading 1
+## heading 2
+### heading.... 3???
+
+* This
+* Is
+    * A
+    * Bullet
+    * List
+
+And now we make it **bold** and _italic_.
+
+| hello | this   | is    | a     | table   |
+|-------|--------|-------|-------|---------|
+| wow   | would  | ya    | look  | at that |
+| table | table  | table | table | table   |
+| cool  | things | in    | a     | table   |
